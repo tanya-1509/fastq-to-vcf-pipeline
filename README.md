@@ -251,6 +251,15 @@ For smooth execution of the pipeline, its better to run the above mentioned comm
 ./file_name.sh  #to run the script in the directory containg the .sh file
 ```
 
+## Sample files for reference
+1. [Parabricks sample](https://s3.amazonaws.com/parabricks.sample/parabricks_sample.tar.gz):\
+   This tar file contains reference genome (which is indexed), paired end FASTQ files and the known_variants.vcf file.
+2. SEQC2 files:
+     * FASTQ files:
+         * FASTQ1 - ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR789/002/SRR7890852/SRR7890852_1.fastq.gz
+         * FASTQ2 - ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR789/002/SRR7890852/SRR7890852_2.fastq.gz
+     * [Reference Genome](https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/seqc/Somatic_Mutation_WG/technical/reference_genome/GRCh38/)
+     * [BED file](https://cellworkslife-my.sharepoint.com/:u:/g/personal/poornachandra_g_cellworksgroup_com/EaFNB7hQJLZIk6y9OYDghY8BmugSInJS7YIhzLlfLcDYMQ)
 
         
      
