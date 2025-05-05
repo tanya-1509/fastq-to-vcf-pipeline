@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define input files and reference genome
-REF="./GRCh38.d1.vd1.fa"
+REF="/path/to/reference_genome.fa/"
 FASTQ1="/home/tanya/PROJECTS/GATK_best_practices/TEST/SRR7890852_1.fastq.gz"
 FASTQ2="/home/tanya/PROJECTS/GATK_best_practices/TEST/SRR7890852_2.fastq.gz"
 KNOWN_SITES="/home/tanya/PROJECTS/GATK_best_practices/parabricks_sample/Ref/Homo_sapiens_assembly38.known_indels.vcf.gz"
